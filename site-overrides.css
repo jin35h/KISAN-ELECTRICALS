@@ -507,7 +507,7 @@ body {
   max-width: 680px;
   margin: 0;
   color: #fff;
-  font-size: clamp(2.55rem, 5.3vw, 5rem);
+  font-size: clamp(2.55rem, 5.3vw, 4rem);
   line-height: 1.02;
   letter-spacing: -0.052em;
   text-wrap: balance;
